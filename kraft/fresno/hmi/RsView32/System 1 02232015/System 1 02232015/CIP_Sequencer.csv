@@ -1,0 +1,199 @@
+0,Filler CIP Not Active
+7,"Open all System Drains, Air Blow from Suction Manifold"
+13,Fresh Water Flush Balance Tank to Local Drain
+16,Gravity Drain
+20,Establish Level in Balance Tank
+22,"Establish Past Temp, Regen and Filler Header Temp"
+23,Establish Valve Path
+25,"Forward Flow, Establish Circuit, Full Regen"
+30,"Forward Flow, Rinse Return Tank Thru Sprayball"
+32,"Forward Flow, Rinse Return Tank Inlet"
+33,"Bypass Regen, Sprayball Fillers 11 and 12"
+34,Transition
+35,"Bypass Regen, Sprayball Fillers 13 and 14"
+36,Transition
+37,"Bypass Regen, Sprayball Fillers 16 and 15"
+38,Transition
+39,"Bypass Regen, Sprayball Filler 17"
+40,Transition
+41,"Bypass Regen, Sprayball Fillers 11 and 12"
+42,Transition
+43,"Bypass Regen, Sprayball Fillers 13 and 14"
+44,Transition
+45,"Bypass Regen, Sprayball Fillers 16 and 15"
+46,Transition
+47,"Bypass Regen, Sprayball Filler 17"
+48,Transition
+50,"Burst Filler 11, Flood Return Tank out the Vent"
+52,"Burst Filler 11, Return to Suction Manifold"
+53,Transition
+54,Burst Filler 12
+55,Transition
+56,Burst Filler 13
+57,Transition
+58,Burst Filler 14
+59,Transition
+60,Burst Filler 16
+61,Transition
+62,Burst Filler 15
+63,Transition
+64,Burst Filler 18
+65,Transition
+66,Burst Filler 17
+67,Transition
+68,"Flood Fillers 11, 12, 13, 14 out the vent"
+69,"Flood Fillers 15 and 16 out the vent"
+70,"Dose Fillers 11, 12, 13, 14, 15, 16"
+71,Transition
+72,"Dose Fillers 15 and 16"
+80,"Transition, No Return, Bypass Suction Drain"
+81,Rinse Balance Tank Product Return Inlet
+82,Rinse Suction Transfer to Balance Tank Sprayball
+88,Rinse Balance Tank Raw Product Inlet
+89,Pump Balance Tank to Drain
+202,Establish Balance Tank Level
+206,"Begin Caustic Addition, Establish Loop Temperature, Verify Concentration"
+207,Clean Balance Tank Raw Product Inlet and Divert Cool
+208,"Clean Balance Tank Raw Product Sprayball and Divert Cool, Forward Flow Seat Lift"
+212,Transition
+213,"Clean Regen Section, Valve Fully to Regen"
+214,Clean Supply and Return Lines thru Strainer # 1
+215,Clean Supply and Return Lines thru Strainer # 2
+216,Clean Supply and Return Lines Full Flow
+222,Transition
+227,"Bypass Regen, Sprayball Fillers 11 and 12"
+228,Transition
+229,"Bypass Regen, Sprayball Fillers 13 and 14"
+230,Transition
+231,"Bypass Regen, Sprayball Fillers 16 and 15"
+232,Transition
+233,"Bypass Regen, Sprayball Filler 17"
+234,Transition
+235,"Bypass Regen, Sprayball Fillers 11 and 12"
+236,Transition
+237,"Bypass Regen, Sprayball Fillers 13 and 14"
+238,Transition
+239,"Bypass Regen, Sprayball Fillers 16 and 15"
+240,Transition
+241,"Bypass Regen, Sprayball Filler 17"
+242,Transition
+244,Open BPV and Sprayball Return Tank
+245,Burst Filler 11
+246,Transition
+247,Burst Filler 12
+248,Transition
+249,Burst Filler 13
+250,Transition
+251,Burst Filler 14
+252,Transition
+253,Burst Filler 16
+254,Transition
+255,Burst Filler 15
+256,Transition
+257,Burst Filler 18
+258,Transition
+259,Burst Filler 17
+260,Transition
+261,Burst Filler 11
+262,Transition
+263,Burst Filler 12
+264,Transition
+265,Burst Filler 13
+266,Transition
+267,"Burst Filler 14, Divert Valve Lower Seat Lift"
+268,Transition
+269,Burst Filler 16
+270,Transition
+271,Burst Filler 15
+272,Transition
+273,Burst Filler 18
+274,Transition
+275,Burst Filler 17
+276,Transition
+277,"Dose All Fillers (11-16)"
+278,"Flood Fillers 11, 12, 13, 14 out the vent"
+279,"Flood Fillers 15 and 16 out the vent"
+280,Transition
+281,"Dose Fillers 15 and 16"
+282,Flood all Fillers out the vent
+286,Flood Return Tank out the vent
+291,Pump Balance Tank to Drain thru Fillers
+296,"Open all Drains, Air Blow from Suction Manifold"
+404,Fresh Water Flush Balance Tank to Drain
+407,Gravity Drain
+410,Fresh Water Flush Balance Tank to Local Drain
+412,Gravity Drain
+415,Establish Balance Tank Level
+417,"Divert Flow, Forward Flow Valve Lower Seat Lift Rinse to Drain"
+418,Transition
+419,"Strainers Mid Position, Full Regen, Rinse to Drain and Sprayball Return Tank"
+422,Rinse Full Flow thru Strainer # 1
+423,Rinse Full Flow thru Strainer # 2
+425,"Full Flow, Full Regen Rinse Filler Header thru Divert Cooler to Drain at Balance Tank"
+427,"Bypass Regen, Sprayball Fillers 11 and 12"
+428,Transition
+429,"Bypass Regen, Sprayball Fillers 13 and 14"
+430,Transition
+431,"Bypass Regen, Sprayball Fillers 16 and 15"
+432,Transition
+433,"Bypass Regen, Sprayball Filler 17"
+434,Transition
+435,"Bypass Regen, Sprayball Fillers 11 and 12"
+436,Transition
+437,"Bypass Regen, Sprayball Fillers 13 and 14"
+438,Transition
+439,"Bypass Regen, Sprayball Fillers 16 and 15"
+440,Transition
+441,"Bypass Regen, Sprayball Filler 17"
+442,Transition
+443,"Burst Filler 11, Flood Return Tank out the Vent"
+444,"Burst Filler 11, Return to Suction Manifold"
+445,Transition
+446,Burst Filler 12
+447,"Transition, Divert Valve Lower Seat Lift"
+448,Burst Filler 13
+449,Transition
+450,Burst Filler 14
+451,Transition
+452,Burst Filler 16
+453,Transition
+454,Burst Filler 15
+455,Transition
+456,Burst Filler 18
+457,Transition
+458,Burst Filler 17
+459,Transition
+460,"Flood Fillers 11, 12, 13, 14 out the vent"
+461,"Flood Fillers 15 and 16 out the vent"
+462,"Dose Fillers 11, 12, 13, 14"
+463,Transition
+464,"Dose Fillers 15 and 16"
+465,Sprayball Return Tank
+466,Flood Return Tank out the vent
+467,Rinse Balance Tank thru Product Return Inlet
+468,Transition
+470,Rinse to Drain at Suction Manifold
+471,Transition
+476,Rinse Balance Tank thru Raw Product Inlet
+477,Transition
+478,Rinse Balance Tank thru Sprayball
+480,Pump Balance Tank to Drain
+481,Gravity Drain
+484,Fresh Water Flush Balance Tank to Drain
+485,Gravity Drain
+602,Fresh Water Rinse Balance Tank to Local Drain
+603,Gravity Drain
+604,Establish Balance Tank Level
+606,"Sanitize Heat Section, Divert Cool, Raw Product Inlet and Balance Tank Sprayball"
+607,"Sanitize Heat Section, Divert Cool, Raw Product Inlet and Balance Tank Sprayball"
+608,Transition
+609,"Recirculate thru Supply and Return Lines, Bypass Regen Until Temp"
+610,Transition
+611,"Recirculate thru Supply and Return Lines, Balance Tank Return Line"
+613,"Sanitize Fillers 11, 12, 13 and 14 thru Sprayball while Dosing"
+614,Transition
+615,Sanitize Fillers 15 and 16 thru Sprayball while Dosing
+616,"Flood Fillers 11, 12, 13, 14 out the vent"
+617,"Flood Fillers 15 and 16 out the vent"
+625,Flood Return Tank out the vent
+629,Gravity Drain

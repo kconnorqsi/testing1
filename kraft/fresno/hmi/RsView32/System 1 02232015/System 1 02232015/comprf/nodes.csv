@@ -1,0 +1,13 @@
+;###3 - THIS MUST BE THE FIRST LINE. DO NOT MODIFY!!!
+1,1,"BigPouchPM3DirectDriver",0,0,"SLC 5 (Enhanced)",1,"192.123.208.44",3000,"","",0,"","","",0
+2,1,"Filler31",0,0,"PLC-5 (Enhanced)",1,"192.123.208.046",3000,"","",0,"","","",0
+3,1,"Filler30",0,0,"PLC-5 (Enhanced)",1,"192.123.208.051",3000,"","",0,"","","",0
+4,1,"CIPSkid1",1,0,"SLC 5 (Enhanced)",1,"128.054.177.088",3000,"","",0,"","","",0
+5,1,"sucrose_1",0,1,"",1,"",3000,"","",0,"RSLinx OPC Server","","",1000
+6,1,"System1BatchingDirectDriver",1,0,"SLC 5 (Enhanced)",1,"128.054.177.086",3000,"","",0,"","","",0
+7,1,"SUCROSE",1,1,"",1,"",3000,"","",0,"RSLinx OPC Server","Sucrose_Main","",1000
+8,1,"SLC_30",1,0,"SLC 5 (Enhanced)",1,"128.054.177.084",3000,"","",0,"","","",0
+9,1,"Past",1,0,"SLC 5 (Enhanced)",1,"128.54.177.83",3000,"","",0,"","","",0
+10,1,"TANKER",1,1,"",1,"",3000,"","",0,"RSLinx OPC Server","TANKER","",1000
+11,1,"ABPLC",1,0,"PLC-5 (Enhanced)",1,"128.054.177.094",3000,"","",0,"","","",0
+12,1,"Sucrose_CIP",1,1,"",1,"",3000,"","",0,"RSLinx OPC Server","Sucrose_CIP","",1000

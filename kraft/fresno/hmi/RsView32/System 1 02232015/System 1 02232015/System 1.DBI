@@ -1,0 +1,8 @@
+INFORMATION: (12:20:06)  Starting database import in project 'Z:\Projects\Kraft\Kraft Fresno\HMI\System 1 02122015\System 1.rsv'. 
+INFORMATION: Only new file entries will be imported. 
+ERROR: Invalid Import type ',' at line 3 in file Z:\Projects\Kraft\Kraft Fresno\HMI\System 1 02122015\System 1-Tags.CSV. 
+ERROR: Invalid Import type ',' at line 89 in file Z:\Projects\Kraft\Kraft Fresno\HMI\System 1 02122015\System 1-Tags.CSV. 
+INFORMATION: Tag Import file 'Z:\Projects\Kraft\Kraft Fresno\HMI\System 1 02122015\System 1-Tags.CSV' has 4031 entries. 
+INFORMATION: (12:20:12)  Finished Pre-Import Phase. 
+INFORMATION: Tags - Successful Creations     16 
+INFORMATION: (12:20:12)  Database import complete. 

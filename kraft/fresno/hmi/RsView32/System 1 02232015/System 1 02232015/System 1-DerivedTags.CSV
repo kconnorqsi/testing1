@@ -1,0 +1,10 @@
+;###001 - THIS LINE CONTAINS VERSION INFORMATION. DO NOT REMOVE!!!
+
+;Tag Name, Expression, Description, DerivedTag File Name
+
+"SLC30\RTD_Utility_HotWater_Hist","(SLC30\RTD_Utility_HotWater_AIN_0_6_7 - 220) * 2.5","","Historical Tags"
+"SLC30\Flow_HotWaterSupply_Hist","(SLC30\Flow_HotWaterSupply / 4)","","Historical Tags"
+"SLC30\RTD_Prod_HeatSection_Hist","(SLC30\RTD_Prod_HeatSection_AIN_0_6_4 - 150)","","Historical Tags"
+"SLC30\FlowRate_HTSTSupply_Hist","(SLC30\FlowRate_HTSTSupply / 1.6)","","Historical Tags"
+"SLC30\RTD_Prod_RegenSection_Hist","(SLC30\RTD_Prod_RegenSection_AIN_0_6_5 - 120)","","Historical Tags"
+"Batch\BatchStartPB","Batch\BatchStartTime = system\Time","","StartBatch"
