@@ -1,0 +1,15 @@
+SE
+
+*CIP Program Select Screen
+
+Need tagged
+- Top right box with time done and elapsed time
+- Caustic, sanitize ack conductivity
+- Tanks ok to sanitize
+- current CIP status color indicators
+
+-verify low flow pause
+
+*Filtration
+
+*Alarms
